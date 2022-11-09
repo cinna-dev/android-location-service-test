@@ -1,0 +1,1 @@
+> If your app frequently needs location, declare the ACCESS_COARSE_LOCATION permission
